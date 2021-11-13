@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Cral_Cactus
-- 👀 I’m working on GTHoney.CC
-- 🌱 I’m currently learning C++
-- 📫 How to reach me - https://discord.gg/kCPqB9shak
+- 👋 Hi, I’m **Cral_Cactus**
+- 👀 I’m working on **GTHoney.CC**
+- 🌱 I’m currently learning **C++**
+- 📫 How to reach me - **Cral_Cactus#1111**
 - 🌐 My current project website - https://GTHoney.CC/
-- 🎮 I like JavaScript
+- 🎮 I like **JavaScript**
