@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning **C++**
 - 📫 How to reach me - **Cral_Cactus#1111**
 - 🌐 My current project website - https://NexusHacks.cc/
-- 🎮 I like **JavaScript**
+- 🎮 I like **JavaScript** and **C++**
 
 <p align="left">
   <a href="https://github.com/Cral-Cactus">
