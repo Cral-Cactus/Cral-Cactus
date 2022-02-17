@@ -7,10 +7,10 @@
 
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-- 👀 I’m working on **NexusHacks.cc**
+- 👀 I’m working on **KiwiShadow.com**
 - 🌱 I’m currently learning **C++**
 - 📫 How to reach me - **Cral_Cactus#1111**
-- 🌐 My current project website - https://NexusHacks.cc/
+- 🌐 My current project website - https://KiwiShadow.com/
 - 🎮 I like **JavaScript** and **C++**
 
 <p align="left">
