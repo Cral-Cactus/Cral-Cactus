@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning **C#**
 - 📫 How to reach me - **Cral_Cactus#1111**
 - 🌐 My current project website - Not available
-- 🎮 I like **JavaScript**, **C#** and **C++**
+- 🎮 I like **JavaScript** & **C#**
 
 <p align="left">
     <a href="https://github.com/Cral-Cactus">
