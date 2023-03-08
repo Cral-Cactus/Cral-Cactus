@@ -1,6 +1,5 @@
-  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 <p>
-    <h1 align="center"><b>Hello there, I'm Cral_Cactus 👋</b></h1>
+<h1 align="center"> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
 </p>
 
 <br>
@@ -16,9 +15,10 @@
 
 <p align="left">
     <a href="https://github.com/Cral-Cactus">
-        <img height="180em"
-            src="https://github-readme-stats.vercel.app/api?username=Cral-Cactus&&show_icons=true&title_color=08d665&icon_color=08d665&text_color=08d665&bg_color=151515" />
-        <img height="180em"
-            src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Cral-Cactus&hide=c,shell,python&layout=compact&langs_count=8&title_color=08d665&icon_color=08d665&text_color=08d665&bg_color=151515" />
-    </a>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Cral-Cactus&hide=c,shell,python&langs_count=8&title_color=08d665&icon_color=08d665&text_color=08d665&bg_color=0c1116"/>
+<img
+  src="https://github-readme-stats-sigma-five.vercel.app/api?username=Cral-Cactus&count_private=true&title_color=08d665&icon_color=08d665&text_color=08d665&show_icons=true&bg_color=0c1116"
+/>
+<img src="https://raw.githubusercontent.com/Cral-Cactus/Cral-Cactus/main/snake.svg"/>
+</a>
 </p>
