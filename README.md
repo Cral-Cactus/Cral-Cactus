@@ -9,6 +9,8 @@
     [![Followers URL](https://img.shields.io/github/followers/cral-cactus?color=%2308d665&logo=Github&style=for-the-badge)](https://github.com/Cral-Cactus/)
     [![Instagram URL](https://img.shields.io/static/v1?color=08d665&label=Instagram&logo=Instagram&logoColor=white&style=for-the-badge&message=follow)](https://www.instagram.com/cral_cactus)
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=300&color=08D665&vCenter=true&width=435&lines=I+am+me!;Go+outside+and+touch+some+grass+%3A);I+like+Javascript+%26%26+C%23" alt="Typing SVG" /></a>
+
 - 👀 I’m working on **C# Projects**
 - 🌱 I’m currently learning **C#**
 - 📫 How to reach me - **Cral_Cactus#1111**
