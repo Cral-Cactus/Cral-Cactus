@@ -12,10 +12,10 @@
 <a href="https://github.com/Cral-Cactus/"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=300&color=08D665&vCenter=true&width=435&lines=I+am+me!;Go+outside+and+touch+the+grass+%3A);I+like+Javascript+%26%26+C%23" alt="Typing SVG" /></a>
 
 - 👀 I’m working on **C# Projects**
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **Next.JS**, **C#**
 - 📫 How to reach me - **Cral_Cactus#1111**
-- 🌐 My current project website - Not available
-- 🎮 I like **JavaScript** & **C#**
+- 🌐 My current project website - **Coming Soon**
+- 🎮 I like **Cats**
 
 <p align="left">
     <a href="https://github.com/Cral-Cactus">
