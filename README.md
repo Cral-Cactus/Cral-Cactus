@@ -13,7 +13,7 @@
 
 - 👀 I’m working on **News Site**
 - 🌱 I’m currently learning **Next.JS**, **C#**
-- 📫 How to reach me - **Cral_Cactus**
+- 📫 How to reach me on Discord - **Cral_Cactus**
 - 🌐 My current project website - **Coming Soon**
 - 🎮 I like **Cats**
 
