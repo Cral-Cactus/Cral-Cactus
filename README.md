@@ -1,9 +1,3 @@
-<p>
-<h1 align="center"> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
-</p>
-
-<br>
-
 <img align="right" height="270px" alt="GIF"
     src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
     [![Followers URL](https://img.shields.io/github/followers/cral-cactus?color=%2308d665&logo=Github&style=for-the-badge)](https://github.com/Cral-Cactus/)
