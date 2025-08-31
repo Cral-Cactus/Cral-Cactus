@@ -3,10 +3,6 @@
     [![Followers URL](https://img.shields.io/github/followers/cral-cactus?color=%2308d665&logo=Github&style=for-the-badge)](https://github.com/Cral-Cactus/)
     [![Instagram URL](https://img.shields.io/static/v1?color=08d665&label=Instagram&logo=Instagram&logoColor=white&style=for-the-badge&message=follow)](https://www.instagram.com/cral_cactus)
 
-- 👀 I’m working on **Garden Site**
-- 🌱 I’m currently learning **Laravel**, **C#**
-- 📫 How to reach me on Discord - **Cral_Cactus**
-- 🌐 My current project website - **Coming Soon**
 - 🎮 I like **Cats**
 
 <p align="left">
